@@ -1,9 +1,6 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+    {"name":"username","value":"123"},{"name":"username","value":"123"},{"name":"gender","value":"Male"},{"name":"num","value":"20"},{"name":"username","value":"123@123"},{"name":"username","value":"123"},{"name":"username","value":"123"}
   ],
   "profile": {
     "name": "typicode"
