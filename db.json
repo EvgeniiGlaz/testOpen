@@ -1,13 +1,11 @@
 {
-	"posts": [{"name":"username","value":"Evgenii"},{"name":"username","value":"Glazkov"},{"name":"gender","value":"Male"},{"name":"num","value":"21"},{"name":"username","value":"jekas@gmail.com"},{"name":"username","value":"qwerty"},{"name":"username","value":"qwerty"}],
-	"comments": [
-		{
-			"id": 1,
-			"body": "some comment",
-			"postId": 1
-		}
-	],
-	"profile": {
-		"name": "typicode"
-	}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
