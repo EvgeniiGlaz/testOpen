@@ -1,10 +1,6 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "name":"username",
-      "value":"123"
-    }
+    {"name":"username","value":"123678"},{"name":"Surname","value":"1234"},{"name":"gender","value":"Male"},{"name":"Age","value":"20"},{"name":"Email","value":"12345@EASD"},{"name":"Password","value":"QWE"},{"name":"Confpassword","value":"QWE"}
   ],
   "profile": {
     "name": "typicode"
